@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository provides the implementation code for our work presented at the EnvSys Conference. We propose a novel, lightweight channel attention mechanism that seamlessly integrates with state-of-the-art (SOTA) models like U-Net and BiSeNet for enhanced seismic layer segmentation.
+This repository provides the implementation code for our work presented at the EnvSys Conference. We propose a lightweight channel attention mechanism that seamlessly integrates with state-of-the-art (SOTA) models like U-Net and BiSeNet for enhanced seismic layer segmentation.
 
 ## Key Features
 
@@ -11,7 +11,7 @@ This repository provides the implementation code for our work presented at the E
 
 ## Datasets and Results
 
-We demonstrate the effectiveness of our approach on the publicly available Salt dataset (https://www.kaggle.com/code/vaibhavthakur/salt-segmentation) and the SEG2020 dataset ([insert dataset details here]).
+We demonstrate the effectiveness of our approach on the publicly available Salt dataset (https://www.kaggle.com/code/vaibhavthakur/salt-segmentation) and the SEG2020 dataset (https://public.3.basecamp.com/p/JyT276MM7krjYrMoLqLQ6xST).
 
 - Our model achieves consistently higher Intersection over Union (IoU) values compared to baseline models and those without the proposed channel attention module.
 

@@ -11,7 +11,9 @@ This repository provides the implementation code for our work presented at the E
 
 ## Datasets and Results
 
-We demonstrate the effectiveness of our approach on the publicly available Salt dataset (https://www.kaggle.com/code/vaibhavthakur/salt-segmentation) and the SEG2020 dataset (https://public.3.basecamp.com/p/JyT276MM7krjYrMoLqLQ6xST).
+We demonstrate the effectiveness of our approach on the publicly available:
+1. Salt dataset (https://www.kaggle.com/code/vaibhavthakur/salt-segmentation)
+2. SEG2020 dataset (https://www.kaggle.com/competitions/tgs-salt-identification-challenge/data)
 
 - Our model achieves consistently higher Intersection over Union (IoU) values compared to baseline models and those without the proposed channel attention module.
 
@@ -38,6 +40,3 @@ We welcome contributions and suggestions from the community to push the boundari
 - Provide clear instructions on how to customize parameters for different datasets.
 - Offer guidance on how to interpret the generated segmentation results.
 
-## Collaboration
-
-We encourage contributions and suggestions to improve this project. Feel free to create pull

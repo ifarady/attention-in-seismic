@@ -7,7 +7,7 @@ This repository provides the implementation code for our work presented at the E
 ## Key Features
 
 - **Light and Efficient Channel Attention**: Inspired by SENet, our attention module offers similar performance benefits but with reduced computational cost through the removal of pooling layers.
-- **Minimal Performance Impact**: Integrating this module into existing models leads to insignificant changes in computational overhead, making it a practical choice for real-world scenarios.
+- **Low Computational Impact**: Integrating this module into existing models leads to insignificant changes in computational overhead, making it a practical choice for real-world scenarios.
 
 ## Datasets and Results
 
@@ -21,7 +21,7 @@ We demonstrate the effectiveness of our approach on the publicly available:
 
 This channel attention module is actively under development for further improvement. We will continue to enhance its capabilities and incorporate updates into this repository.
 
-We welcome contributions and suggestions from the community to push the boundaries of seismic layer segmentation!
+We welcome contributions and suggestions from the community!
 
 ## Running the Code
 
